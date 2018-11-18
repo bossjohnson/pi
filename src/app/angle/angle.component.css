@@ -1,0 +1,11 @@
+.angle-input {
+  border: 1px dotted black;
+  position: relative;
+  width: 80%;
+}
+
+.angle-slider {
+  background: blue;
+  margin-right: 100px;
+  width: 100%;
+}

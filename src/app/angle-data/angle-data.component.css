@@ -1,0 +1,29 @@
+.angle-data {
+  font-size: 2em;
+}
+
+.ratio {
+  /* display: flex;
+  flex-direction: column; */
+  display: inline-block;
+  font-size: .5em;
+  text-align: center;
+}
+
+.opposite {
+  color: green;
+}
+
+.adjacent {
+  color: blue;
+}
+
+.hypotenuse {
+  color: red;
+}
+
+.divider {
+  background-color: black;
+  height: 1px;
+  width: 100%;
+}
